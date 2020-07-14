@@ -19,7 +19,7 @@
 							<goal>list</goal>
 						</goals>
 						<configuration>
-							<url>https://resources.agenarisk.com/products/desktop</url>
+							<url>https://archive.apache.org/dist/maven/maven-3/3.6.3/binaries</url>
 						</configuration>
 					</execution>
 				</executions>
